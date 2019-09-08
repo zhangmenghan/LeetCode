@@ -2,7 +2,7 @@ package com.simple;
 
 import com.util.TreeNode;
 
-public class Hundred_eleven {
+public class S_111 {
     public int minDepth(TreeNode root) {
         if (root == null) {
             return 0;

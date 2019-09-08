@@ -5,7 +5,7 @@ import com.util.TreeNode;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Hundred_twelve {
+public class S_112 {
     public boolean hasPathSum(TreeNode root, int sum) {
         if(root == null)
             return false;

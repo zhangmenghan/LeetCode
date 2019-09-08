@@ -1,6 +1,6 @@
 package com.simple;
 
-public class Twenty_seven {
+public class S_27 {
 
     public int removeElement(int[] nums, int val) {
         int equal = 0;
@@ -14,7 +14,7 @@ public class Twenty_seven {
     public static void main(String[] args) {
 
         int []nums = {0,1,2,2,3,0,4,2};
-        Twenty_seven elementRemove = new Twenty_seven();
+        S_27 elementRemove = new S_27();
         int result = elementRemove.removeElement(nums,2);
         System.out.println(result);
     }

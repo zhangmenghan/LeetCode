@@ -1,6 +1,6 @@
 package com.simple;
 
-public class Sixty_nine {
+public class S_69 {
     public int mySqrt(int x) {
         long left = 0;
         long right = x / 2 + 1;
@@ -19,7 +19,7 @@ public class Sixty_nine {
     }
 
     public static void main(String[] args) {
-        Sixty_nine sixty_nine = new Sixty_nine();
+        S_69 sixty_nine = new S_69();
         int result = sixty_nine.mySqrt(16);
         System.out.println(result);
     }

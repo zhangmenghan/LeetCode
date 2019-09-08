@@ -1,6 +1,6 @@
 package com.simple;
 
-public class Hundred_sixty_seven {
+public class S_167 {
     public int[] twoSum(int[] numbers, int target) {
         int left = 0;
         int right = numbers.length - 1;

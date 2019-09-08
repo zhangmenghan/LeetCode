@@ -1,6 +1,6 @@
 package com.simple;
 
-public class Nine {
+public class S_9 {
 
     public boolean isPalindrome(int x) {
         String numStr = String.valueOf(x);
@@ -15,7 +15,7 @@ public class Nine {
     }
 
     public static void main(String[] args) {
-        Nine palindrome = new Nine();
+        S_9 palindrome = new S_9();
         boolean result = palindrome.isPalindrome(121);
         System.out.println(result);
     }

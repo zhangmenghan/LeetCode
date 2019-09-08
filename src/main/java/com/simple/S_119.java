@@ -3,7 +3,7 @@ package com.simple;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Hundred_nineteen {
+public class S_119 {
     public List<Integer> getRow(int rowIndex) {
         List<Integer> result = new ArrayList<Integer>();
 

@@ -1,4 +1,0 @@
-package com.simple;
-
-public class Hundred_seventy_six {
-}

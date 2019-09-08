@@ -1,6 +1,6 @@
 package com.simple;
 
-public class Hundred_seventy_two {
+public class S_172 {
     public int trailingZeroes(int n) {
         int result = 0;
         while (n > 4) {

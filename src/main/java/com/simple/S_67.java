@@ -1,6 +1,6 @@
 package com.simple;
 
-public class Sixty_seven {
+public class S_67 {
     public String addBinary(String a, String b) {
         int length = 0;
         int i = a.length() - 1;
@@ -24,7 +24,7 @@ public class Sixty_seven {
     }
 
     public static void main(String[] args) {
-        Sixty_seven sixty_seven = new Sixty_seven();
+        S_67 sixty_seven = new S_67();
         String result = sixty_seven.addBinary("10","101");
         System.out.println(result);
     }

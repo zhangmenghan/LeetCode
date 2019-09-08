@@ -1,6 +1,6 @@
 package com.simple;
 
-public class Fifty_eight {
+public class S_58 {
 
     public int lengthOfLastWord(String s) {
         if (s == null || s.length() == 0) {
@@ -15,7 +15,7 @@ public class Fifty_eight {
     }
 
     public static void main(String[] args) {
-        Fifty_eight fifty_eight = new Fifty_eight();
+        S_58 fifty_eight = new S_58();
         int result = fifty_eight.lengthOfLastWord("ab");
         System.out.println(result);
     }

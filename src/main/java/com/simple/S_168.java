@@ -1,6 +1,6 @@
 package com.simple;
 
-public class Hundred_sixty_eight {
+public class S_168 {
     public String convertToTitle(int n) {
         StringBuilder sb = new StringBuilder();
         while (n != 0){

@@ -1,6 +1,6 @@
 package com.simple;
 
-public class Hundred_sixty_nine {
+public class S_169 {
     public int majorityElement(int[] nums) {
         int count = 1;
         int majority = nums[0];

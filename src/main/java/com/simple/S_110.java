@@ -2,7 +2,7 @@ package com.simple;
 
 import com.util.TreeNode;
 
-public class Hundred_ten {
+public class S_110 {
     public boolean isBalanced(TreeNode root) {
         if(root == null)
             return true;

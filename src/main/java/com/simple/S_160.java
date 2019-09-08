@@ -2,7 +2,7 @@ package com.simple;
 
 import com.util.ListNode;
 
-public class Hundred_sixty {
+public class S_160 {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         int lenA = findLen(headA);
         int lenB = findLen(headB);

@@ -1,6 +1,6 @@
 package com.simple;
 
-public class Hundred_seventy_one {
+public class S_171 {
     public int titleToNumber(String s) {
         char[] c = s.toCharArray();
         int result = 0;

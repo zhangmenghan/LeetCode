@@ -1,7 +1,7 @@
 package com.simple;
 import com.util.ListNode;
 
-public class Eighty_three {
+public class S_83 {
 
     public ListNode deleteDuplicates(ListNode head) {
         ListNode curr = head;
@@ -16,7 +16,7 @@ public class Eighty_three {
     }
 
     public static void main(String[] args) {
-        Eighty_three eighty_three = new Eighty_three();
+        S_83 eighty_three = new S_83();
 
     }
 }

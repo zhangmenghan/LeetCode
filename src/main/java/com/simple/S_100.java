@@ -2,7 +2,7 @@ package com.simple;
 
 import com.util.TreeNode;
 
-public class Hundred {
+public class S_100 {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         if (p == null || q == null)
             return p == q;
@@ -10,7 +10,7 @@ public class Hundred {
     }
 
     public static void main(String[] args) {
-        Hundred hundred = new Hundred();
+        S_100 hundred = new S_100();
 
     }
 }

@@ -1,6 +1,6 @@
 package com.simple;
 
-public class Thirty_five {
+public class S_35 {
 
     public int searchInsert(int[] nums, int target) {
         int location = 0;
@@ -14,7 +14,7 @@ public class Thirty_five {
     }
 
     public static void main(String[] args) {
-        Thirty_five thirty_five = new Thirty_five();
+        S_35 thirty_five = new S_35();
         int []nums = {1,3,5,6};
         int result = thirty_five.searchInsert(nums,5);
         System.out.println(result);
