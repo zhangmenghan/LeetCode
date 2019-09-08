@@ -14,7 +14,7 @@ public class S_599 {
         Map<String, Integer> map1 = putIntoMap(list1);
         Map<String, Integer> map2 = putIntoMap(list2);
         int leastIndexSum = Integer.MAX_VALUE;
-        List<String> resultList = new ArrayList<>();
+        List<String> resultList = new ArrayList<String>();
         for (String key1 : map1.keySet()) {
             if (map2.containsKey(key1)) {
                 int indexSum = map1.get(key1) + map2.get(key1);
@@ -35,7 +35,7 @@ public class S_599 {
     }
 
     private Map<String, Integer> putIntoMap(String[] list) {
-        Map<String, Integer> map = new HashMap<>();
+        Map<String, Integer> map = new HashMap<String, Integer>();
         for (int i = 0; i < list.length; i++) {
             map.put(list[i], i);
         }

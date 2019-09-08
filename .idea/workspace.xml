@@ -2,26 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c060e67-3063-43b3-9360-de7517b84af2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Eighty_three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_83.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Fifty_eight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_58.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Hundred.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Hundred_eleven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Hundred_nineteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_119.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Hundred_seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_107.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Hundred_seventy_five.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_175.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Hundred_seventy_one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_171.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Hundred_seventy_six.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_176.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Hundred_seventy_two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_172.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Hundred_sixty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_160.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Hundred_sixty_eight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_168.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Hundred_sixty_nine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_169.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Hundred_sixty_seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_167.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Hundred_ten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_110.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Hundred_twelve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_112.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Nine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Sixty_nine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/Sixty_seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_605.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_628.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_633.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_645.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/S_532.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_532.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/S_599.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_599.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +18,65 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_605.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_628.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_633.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_645.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_532.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-51">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#278#295#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_203.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,6 +98,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/util/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/utils/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simple/S_429.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simple/S_520.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simple/S_605.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simple/S_599.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simple/S_532.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simple/S_628.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simple/S_633.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simple/S_645.java" />
       </list>
     </option>
   </component>
@@ -117,15 +169,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="simple" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -135,7 +178,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567930929952" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567939847151" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -144,8 +187,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IDEA\LeetCode\src\main\java\com\util" />
       <recent name="D:\IDEA\LeetCode\src\main\java\com\simple" />
+      <recent name="D:\IDEA\LeetCode\src\main\java\com\util" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -159,6 +202,68 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Application.S_645">
+    <configuration name="S_605" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.simple.S_605" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S_628" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.simple.S_628" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S_633" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.simple.S_633" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S_645" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.simple.S_645" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.S_645" />
+        <item itemvalue="Application.S_633" />
+        <item itemvalue="Application.S_628" />
+        <item itemvalue="Application.S_605" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -175,21 +280,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1394" height="916" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962519" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962519" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32950193" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32950193" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39974457" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -374,6 +481,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_520.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_521.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_203.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_599.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <element signature="e#506#514#0" expanded="true" />
+            <element signature="e#1279#1296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_532.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#278#295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_605.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_628.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_633.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_645.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
         </state>
       </provider>
     </entry>

@@ -10,7 +10,7 @@ public class S_532 {
             return 0;
         }
 
-        Map<Integer,Integer> numsMap = new HashMap<>();
+        Map<Integer,Integer> numsMap = new HashMap<Integer,Integer>();
 
         for (int num : nums) {
             numsMap.put(num, numsMap.getOrDefault(num, 0) + 1);

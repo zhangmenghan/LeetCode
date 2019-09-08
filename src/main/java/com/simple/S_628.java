@@ -1,0 +1,30 @@
+package com.simple;
+import java.util.Arrays;
+
+public class S_628 {
+
+    public int maximumProduct(int[] nums) {
+        int product = 1;
+        if (nums.length >= 3) {
+            Arrays.sort(nums);
+            for (int i = nums.length - 1; i >= nums.length - 3; i--) {
+                product *= nums[i];
+            }
+            int anotherProduct = nums[0] * nums
+                    [1] * nums[nums.length - 1];
+            product = Math.max(product, anotherProduct);
+        } else {
+            for (int i = 0; i < nums.length; i++) {
+                product *= nums[i];
+            }
+        }
+        return product;
+    }
+
+
+    public static void main(String[] args) {
+        S_628 s_628 = new S_628();
+        int[] input = {1,2,3};
+        System.out.println(s_628.maximumProduct(input));
+    }
+}
