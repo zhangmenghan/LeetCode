@@ -1,6 +1,6 @@
 package com.simple;
 
-import com.util.ListNode;
+import com.utils.ListNode;
 
 public class S_203 {
     public ListNode removeElements(ListNode head, int val) {

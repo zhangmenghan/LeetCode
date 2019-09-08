@@ -1,6 +1,6 @@
 package com.simple;
 
-import com.util.TreeNode;
+import com.utils.TreeNode;
 
 public class S_437 {
     public int pathSum(TreeNode root, int sum) {

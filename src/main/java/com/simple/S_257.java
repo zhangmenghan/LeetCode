@@ -1,5 +1,5 @@
 package com.simple;
-import com.util.TreeNode;
+import com.utils.TreeNode;
 import java.util.ArrayList;
 import java.util.List;
 

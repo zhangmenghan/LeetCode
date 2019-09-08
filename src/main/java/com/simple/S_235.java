@@ -1,6 +1,6 @@
 package com.simple;
 
-import com.util.TreeNode;
+import com.utils.TreeNode;
 
 public class S_235 {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {

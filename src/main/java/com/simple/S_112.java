@@ -1,9 +1,6 @@
 package com.simple;
 
-import com.util.TreeNode;
-
-import java.util.LinkedList;
-import java.util.Queue;
+import com.utils.TreeNode;
 
 public class S_112 {
     public boolean hasPathSum(TreeNode root, int sum) {

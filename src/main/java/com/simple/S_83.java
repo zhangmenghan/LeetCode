@@ -1,5 +1,5 @@
 package com.simple;
-import com.util.ListNode;
+import com.utils.ListNode;
 
 public class S_83 {
 
