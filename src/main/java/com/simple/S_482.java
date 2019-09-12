@@ -20,7 +20,7 @@ public class S_482 {
                 sb.append('-');
             }
         }
-        if (sb.length() > 1 && sb.substring(sb.length() - 1).equals("-")) {
+        if (sb.length() > 1 && "-".equals(sb.substring(sb.length() - 1))) {
             return sb.reverse().substring(1);
         }
         return sb.reverse().toString();

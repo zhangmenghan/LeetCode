@@ -7,8 +7,9 @@ import java.util.*;
 public class S_107 {
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
         List<List<Integer>> result = new ArrayList<List<Integer>>();
-        if(root == null)
+        if(root == null) {
             return result;
+        }
 
         Queue<TreeNode> q = new LinkedList<TreeNode>();
         q.offer(root);
@@ -18,10 +19,12 @@ public class S_107 {
             for (int i = 0; i < qSize; i++) {
                 TreeNode curr = q.poll();
                 thisLevel.add(curr.val);
-                if(curr.left != null)
+                if(curr.left != null) {
                     q.offer(curr.left);
-                if(curr.right != null)
+                }
+                if(curr.right != null) {
                     q.offer(curr.right);
+                }
             }
             result.add(thisLevel);
         }

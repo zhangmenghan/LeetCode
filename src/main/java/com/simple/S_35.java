@@ -5,8 +5,9 @@ public class S_35 {
     public int searchInsert(int[] nums, int target) {
         int location = 0;
         for (int i = 0; i < nums.length; i++) {
-            if (nums[location] >= target)
+            if (nums[location] >= target) {
                 break;
+            }
             location++;
         }
 

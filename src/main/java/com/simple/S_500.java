@@ -39,7 +39,7 @@ public class S_500 {
 	
 	public static void main(String[] args) {
 		S_500 s = new S_500();
-		String in[] = {"Peklo", "Alaska", "Dad", "Peace"};
+		String[] in = {"Peklo", "Alaska", "Dad", "Peace"};
 		for(int i = 0;i < s.findWords(in).length;i++) {
 			System.out.println(s.findWords(in)[i]);
 		}

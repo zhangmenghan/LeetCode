@@ -9,7 +9,7 @@ public class S_682 {
         int firstLast = Integer.MIN_VALUE;
         int secondLast = Integer.MIN_VALUE;
         for (String op : ops) {
-            if (op.equals("+")) {
+            if ("+".equals(op)) {
                 if (!stack.isEmpty()) {
                     firstLast = stack.pop();
                 }
@@ -29,13 +29,13 @@ public class S_682 {
 
                 firstLast = Integer.MIN_VALUE;
                 secondLast = Integer.MIN_VALUE;
-            } else if (op.equals("D")) {
+            } else if ("D".equals(op)) {
                 if (!stack.isEmpty()) {
                     int thisRoundPoints = stack.peek() * 2;
                     stack.push(thisRoundPoints);
                     sum += thisRoundPoints;
                 }
-            } else if (op.equals("C")) {
+            } else if ("C".equals(op)) {
                 if (!stack.isEmpty()) {
                     int removedData = stack.pop();
                     sum -= removedData;

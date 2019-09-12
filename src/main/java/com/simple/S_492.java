@@ -4,8 +4,8 @@ public class S_492 {
 	public int[] constructRectangle(int area) {
         int i = 1;
         int j = area;
-        
-        int result[] = new int[2];
+
+        int[] result = new int[2];
         
         while(i <= j) {
         	long product = i * j;
