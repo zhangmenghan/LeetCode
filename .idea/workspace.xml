@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c060e67-3063-43b3-9360-de7517b84af2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_696.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_704.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_709.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_728.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_733.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utils/MyHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simple/S_100.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simple/S_100.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simple/S_107.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simple/S_107.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simple/S_110.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simple/S_110.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simple/S_111.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simple/S_111.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simple/S_112.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simple/S_112.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simple/S_171.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simple/S_171.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simple/S_27.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simple/S_27.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simple/S_35.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simple/S_35.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simple/S_434.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simple/S_434.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simple/S_482.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simple/S_482.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simple/S_521.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simple/S_521.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simple/S_532.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simple/S_532.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simple/S_682.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simple/S_682.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simple/S_690.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simple/S_690.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simple/S_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simple/S_9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simple/S_733.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simple/S_733.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -120,8 +99,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_733.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            <state relative-caret-position="490">
+              <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -257,7 +239,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568604413159" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568604813490" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -829,8 +811,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/S_733.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        <state relative-caret-position="490">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
