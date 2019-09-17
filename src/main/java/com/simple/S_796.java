@@ -3,6 +3,9 @@ package com.simple;
 public class S_796 {
 
     public boolean rotateString(String A, String B) {
+        if (A.equals("") && B.equals("")){
+            return true;
+        }
         if (A.length() != B.length()) {
             return false;
         }

@@ -29,7 +29,7 @@ public void after() throws Exception {
 @Test
 public void testRotateString() throws Exception { 
     S_796 s_796 = new S_796();
-    s_796.rotateString("","");
+    System.out.println(s_796.rotateString("",""));
 } 
 
 
